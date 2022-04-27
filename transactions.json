@@ -1,0 +1,44 @@
+{
+	"transactions": [
+		{
+			"timestamp" : "2020-01-01T00:00:00Z",
+			"payer" : "A",
+			"points": 700
+		} ,
+
+		{
+			"timestamp" : "2020-01-02T00:00:00Z",
+			"payer" : "B",
+			"points": 500
+		} ,
+
+		{
+			"timestamp" : "2020-01-03T00:00:00Z",
+			"payer" : "A",
+			"points": 100
+		} ,
+
+		{
+			"timestamp" : "2020-01-04T00:00:00Z",
+			"payer" : "B",
+			"points": 300
+		} ,
+
+		{
+			"timestamp" : "2020-01-05T00:00:00Z",
+			"payer" : "C",
+			"points": 400
+		} ,
+
+		{
+			"timestamp" : "2020-01-06T00:00:00Z",
+			"payer" : "C",
+			"points" : 200
+		} , 
+		{
+			"timestamp" : "2020-01-07T00:00:00Z",
+			"payer" : "C",
+			"points" : -300
+		} 
+	]
+}
